@@ -4,4 +4,4 @@
 ![ferrari](ferrari-812-superfast-car-u5.jpg)
 ---
 *Ateempt to write an equation*
-$p=frag{-ih}{4πm}$
+$p=fragg{-ih}{4πm}$
